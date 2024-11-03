@@ -3,7 +3,9 @@ This project contains a Python script for tracking vehicles in a video and estim
 This script reads a video, detects and tracks cars using Haar Cascade and dlib's correlation tracker, estimates their speeds, and displays the results on the frames.  
 
 
+
  Software Requirements:
+
 ● Operating system: A current operating system, like Windows, Linux or MacOS
 should be used on the computer.
 
