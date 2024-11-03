@@ -6,10 +6,13 @@ This script reads a video, detects and tracks cars using Haar Cascade and dlib's
  Software Requirements:
 ● Operating system: A current operating system, like Windows, Linux or MacOS
 should be used on the computer.
+
 ● Software for Image Processing: To process and examine the images that the cameras
 have collected, an image processing software library is needed. We have used
 OpenCV.
+
 ● Programming Language: The software and methods for overspeed detection and
 license plate identification must be implemented using a programming language.
 Here, we have used Python.
+
 ● Other libraries: dlib, numpy, threading, time and math
